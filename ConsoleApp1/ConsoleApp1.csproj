@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Chuck-ClassLibrary2" Version="1.1.1.441" />
+    <PackageReference Include="Chuck-ClassLibrary2" Version="1.1.1.442" />
   </ItemGroup>
 
 </Project>
