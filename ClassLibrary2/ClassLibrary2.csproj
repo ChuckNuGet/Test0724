@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+	<AssemblyTitle>Chuck-ClassLibrary2</AssemblyTitle>
+    <Company>HearthSim</Company>
+    <Product>Chuck-ClassLibrary2</Product>
+    <Copyright>Copyright © HearthSim 2020</Copyright>
+    <AssemblyVersion>1.1.1.441</AssemblyVersion>
+    <FileVersion>1.1.1.441</FileVersion>
+    <Version>1.1.1.441</Version>
+    <PackageId>Chuck-ClassLibrary2</PackageId>
+    <AssemblyName>Chuck-ClassLibrary2</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
