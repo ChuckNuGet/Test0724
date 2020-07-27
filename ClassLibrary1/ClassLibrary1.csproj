@@ -6,6 +6,9 @@
     <Company>HearthSim</Company>
     <Product>Chuck-ClassLibrary1</Product>
     <Copyright>Copyright © HearthSim 2020</Copyright>
+    <AssemblyVersion>1.1.1.443</AssemblyVersion>
+    <FileVersion>1.1.1.443</FileVersion>
+    <Version>1.1.1.443</Version>
     <PackageId>Chuck-ClassLibrary1</PackageId>
     <AssemblyName>Chuck-ClassLibrary1</AssemblyName>
   </PropertyGroup>
